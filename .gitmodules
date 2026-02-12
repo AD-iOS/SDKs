@@ -1,0 +1,3 @@
+[submodule "iphoneos17.5.sdk"]
+	path = iphoneos17.5.sdk
+	url = https://github.com/AD-iOS/iphoneos-sdk17.5
